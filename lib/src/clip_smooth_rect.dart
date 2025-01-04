@@ -1,7 +1,6 @@
-import 'package:figma_squircle/figma_squircle.dart';
 import 'package:flutter/widgets.dart';
 
-import 'smooth_rectangle_border.dart';
+import '../figma_squircle.dart';
 
 class ClipSmoothRect extends StatelessWidget {
   const ClipSmoothRect({
